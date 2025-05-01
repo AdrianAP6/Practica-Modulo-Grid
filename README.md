@@ -1,2 +1,0 @@
-# Practica-Modulo-Grid
-Práctica
